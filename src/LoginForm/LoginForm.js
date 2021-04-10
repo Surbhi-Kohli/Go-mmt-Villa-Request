@@ -13,7 +13,7 @@ function LoginForm({origin}){
     let history = useHistory();
     React.useEffect(()=>{
         if(user)
-        history.push("/home");
+        history.push("/Go-mmt-Villa-Request/home");
     },[user])
     function validateLogin(){
      let user=JSON.parse(localStorage.getItem(`${name}`));

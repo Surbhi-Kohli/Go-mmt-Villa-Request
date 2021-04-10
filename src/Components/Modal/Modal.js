@@ -30,7 +30,7 @@ const Modal =({isOpen,setOpen,villa,user})=> {
         data.push({id:Date.now(),user:user.name,adults:adultsNum,children:childNum,propertyOwner:villa.Owner,propertyName:villa.name,cost:totalCost,checkInDate:checkInDate,checkoutDate:checkoutDate,status:'Pending for approval from Host',imgUrl:villa.imgUrl});
         localStorage.setItem(`Bookings`,JSON.stringify(data));
          setOpen(false);
-       history.push('/home/bookings');
+       history.push('/Go-mmt-Villa-Request/home/bookings');
    }
    function setDate(date,checkInOut)
    {
