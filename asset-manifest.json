@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Go-mmt-Villa-Request/static/css/main.72d1a6c7.chunk.css",
+    "main.js": "/Go-mmt-Villa-Request/static/js/main.483d80e1.chunk.js",
+    "main.js.map": "/Go-mmt-Villa-Request/static/js/main.483d80e1.chunk.js.map",
+    "runtime-main.js": "/Go-mmt-Villa-Request/static/js/runtime-main.67e22477.js",
+    "runtime-main.js.map": "/Go-mmt-Villa-Request/static/js/runtime-main.67e22477.js.map",
+    "static/js/2.8ac6f189.chunk.js": "/Go-mmt-Villa-Request/static/js/2.8ac6f189.chunk.js",
+    "static/js/2.8ac6f189.chunk.js.map": "/Go-mmt-Villa-Request/static/js/2.8ac6f189.chunk.js.map",
+    "static/js/3.69c4070d.chunk.js": "/Go-mmt-Villa-Request/static/js/3.69c4070d.chunk.js",
+    "static/js/3.69c4070d.chunk.js.map": "/Go-mmt-Villa-Request/static/js/3.69c4070d.chunk.js.map",
+    "index.html": "/Go-mmt-Villa-Request/index.html",
+    "static/css/main.72d1a6c7.chunk.css.map": "/Go-mmt-Villa-Request/static/css/main.72d1a6c7.chunk.css.map",
+    "static/js/2.8ac6f189.chunk.js.LICENSE.txt": "/Go-mmt-Villa-Request/static/js/2.8ac6f189.chunk.js.LICENSE.txt",
+    "static/media/makemytrip_logo.9295d077.png": "/Go-mmt-Villa-Request/static/media/makemytrip_logo.9295d077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67e22477.js",
+    "static/js/2.8ac6f189.chunk.js",
+    "static/css/main.72d1a6c7.chunk.css",
+    "static/js/main.483d80e1.chunk.js"
+  ]
+}
