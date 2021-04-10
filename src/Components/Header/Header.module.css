@@ -1,0 +1,29 @@
+.header {
+    background-color: #124680;
+    min-height: 10vh;
+    display: flex;
+    flex-wrap:wrap;
+    position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding:0 8px;
+    overflow-y: hidden
+  }
+  .header button{
+    background-color: #124680;
+    color:white;
+    margin-right:5px;
+
+  }
+  .nav{
+    text-decoration: none;
+    color:white;
+  }
+  .navLinkActive{
+    border:1px solid gainsboro;
+  }

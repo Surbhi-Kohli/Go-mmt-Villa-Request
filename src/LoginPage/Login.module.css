@@ -1,0 +1,21 @@
+.card{
+    border:1px solid black;
+    display:flex; 
+    flex-direction: column;
+    flex :1 1 500px;
+    margin:20px;
+    border-radius:25px;
+    text-align: center;
+    padding:20px;
+    font-size:30px;
+    font-weight:bold;
+    background-color: #4c90dc;
+    color:white
+  }
+  .login{
+    box-sizing:border-box;
+   display:flex;
+   height:50%;
+   flex:1 1 600px;
+   flex-wrap:wrap;
+  }
