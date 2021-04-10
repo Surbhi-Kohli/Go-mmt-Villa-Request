@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Go-mmt-Villa-Request/static/css/main.72d1a6c7.chunk.css",
-    "main.js": "/Go-mmt-Villa-Request/static/js/main.483d80e1.chunk.js",
-    "main.js.map": "/Go-mmt-Villa-Request/static/js/main.483d80e1.chunk.js.map",
+    "main.js": "/Go-mmt-Villa-Request/static/js/main.0260c788.chunk.js",
+    "main.js.map": "/Go-mmt-Villa-Request/static/js/main.0260c788.chunk.js.map",
     "runtime-main.js": "/Go-mmt-Villa-Request/static/js/runtime-main.67e22477.js",
     "runtime-main.js.map": "/Go-mmt-Villa-Request/static/js/runtime-main.67e22477.js.map",
     "static/js/2.8ac6f189.chunk.js": "/Go-mmt-Villa-Request/static/js/2.8ac6f189.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.67e22477.js",
     "static/js/2.8ac6f189.chunk.js",
     "static/css/main.72d1a6c7.chunk.css",
-    "static/js/main.483d80e1.chunk.js"
+    "static/js/main.0260c788.chunk.js"
   ]
 }
